@@ -1,11 +1,11 @@
-calendar extension
+说明
 ===========================
-calendar is a tool that you can check your date yon your chrome.
+在chrome上便捷的查看日历。
 
-Usage
+使用
 -------------------
-chick on the icon and you can check your date now. 
+点击那个贱贱的图标就可以啦～～
 
-Disclaimer
+做来干什么的呢？
 --------------------
-This app just for test.
+伦家想去阿里巴巴嘛Ｏ（∩＿∩）Ｏ
